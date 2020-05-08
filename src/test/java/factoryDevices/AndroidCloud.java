@@ -22,7 +22,7 @@ public class AndroidCloud implements IDevices {
         caps.setCapability("device", "Google Pixel 3 XL");
         caps.setCapability("os_version", "9.0");
         caps.setCapability("project", "UPB Appium");
-        caps.setCapability("build", "Build_1.0");
+        caps.setCapability("build", "Build_3.0");
         caps.setCapability("name", "App WhenDo");
         caps.setCapability("app", "bs://baf4289573be8d089657458c0c7608033831cf6d");
 
