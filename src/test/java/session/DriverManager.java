@@ -8,7 +8,7 @@ public class DriverManager {
     private AppiumDriver driver;
 
     private DriverManager(){
-        driver= FactoryDevices.make("android").create();
+        driver= FactoryDevices.make("cloud").create();
     }
 
 
